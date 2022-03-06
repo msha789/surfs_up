@@ -7,7 +7,7 @@ The purpose of this analysis is to assist W. Avy to gain more information about 
 
 - In June there was a mean of 74.9 with a min of 64.0 and a max of 85.0
 
-![Pic](link)
+![Pic](https://github.com/msha789/surfs_up/blob/a96f6b7d50860a9b30180f83cb60fe8754e8ac15/Screen%20Shot%202022-03-06%20at%2012.54.42%20PM.png)
 
 -	In December there was mean of 71.0 with a min of 56.0 and a max of 83.0
 
