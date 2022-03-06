@@ -11,7 +11,7 @@ The purpose of this analysis is to assist W. Avy to gain more information about 
 
 -	In December there was mean of 71.0 with a min of 56.0 and a max of 83.0
 
-![Pic](link)
+![Pic](https://github.com/msha789/surfs_up/blob/ec1cb3115355ffa861315725cf660a316aea7da8/Screen%20Shot%202022-03-06%20at%2012.54.52%20PM.png)
 
 -	The standard deviation for December is 3.75 whereas its 3.25 for June which shows that the weather is slightly more variable in December than in June 
 
